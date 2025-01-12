@@ -11,6 +11,8 @@ PairStyle(ntw,PairNTW);
 
 namespace LAMMPS_NS {
 
+// Hello
+
 class PairNTW : public Pair {
  public:
   PairNTW(class LAMMPS *);
